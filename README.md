@@ -1,0 +1,2 @@
+# Md.Sifat-Mahmud
+This is Md.Sifat Mahmud.I am a student of Computer Science and Engineering at Daffodil International University, with a deep interest in Machine Learning and its applications in solving real-world problems. As someone who is passionate about technology and innovation, I am constantly learning and improving my skills. My focus on machine learning has allowed me to work on projects that involve predictive modeling, data analysis, and algorithm development, all of which are detailed on this site.
